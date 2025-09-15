@@ -43,7 +43,6 @@ db.sqlite3
 *.swp
 
 # Images
-*.png
 *.gif
 
 # Node / React / Vite
