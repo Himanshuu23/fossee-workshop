@@ -31,6 +31,10 @@
 - Easily search and book workshops
 - View current and upcoming workshops
 
+## Tech Stack
+- Frontend - React, TailwindCSS, Axios
+- Backend - Django
+
 ## Demo Images
 
 ### Hero Section - Responsive, Enhanced UX - easily for user to navigate all features
